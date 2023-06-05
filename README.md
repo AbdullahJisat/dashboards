@@ -1,1 +1,5 @@
-![alt text](https://github.com/AbdullahJisat/admindek-dashboard/screenshot/ss1.png?raw=true)
+
+# Dashboards
+
+Admindek, metronic, skote and karnoder
+
